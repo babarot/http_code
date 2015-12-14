@@ -24,11 +24,15 @@ usage: http_code [-a|--all] [0-9]+
 
 ## Installation
 
-	$ antigen bundle b4b4r07/http_code
+### Using [zplug](https://github.com/b4b4r07/zplug)
+
+```zsh
+zplug "b4b4r07/http_code", as:command, of:bin
+```
 
 ## License
 
-[MIT][license] © BABAROT (a.k.a. [b4b4r07](http://tellme.tokyo))
+[MIT][license] © BABAROT
 
 [license]: http://b4b4r07.mit-license.org
 [http_code]: https://github.com/b4b4r07/http_code
